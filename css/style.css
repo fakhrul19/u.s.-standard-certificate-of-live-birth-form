@@ -1,0 +1,13 @@
+@charset "utf-8";
+.tab-content {
+	background-color: #FFFDE6;
+}
+.certifier p {
+	margin: 0;
+}
+.certifier .checkbox-inline {
+	margin-left: 0px !important;
+}
+.mother h5 {
+	margin-top: 64px;
+}
